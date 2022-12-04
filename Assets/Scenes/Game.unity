@@ -1346,7 +1346,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1312382315
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1634,7 +1634,7 @@ AudioSource:
   m_GameObject: {fileID: 1447393098}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 91dfd3d02f1042040bcb246d275dd71f, type: 2}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 0.5
@@ -2764,11 +2764,11 @@ MonoBehaviour:
   _startPointGame: {fileID: 346693406}
   _playerPrefab: {fileID: 4940879092306473176, guid: be5408d6a0715df4b9a26f27463c7652, type: 3}
   _exitPrefab: {fileID: 2716093115188733264, guid: 3dda8af9d29488747ab1fe3167afc0b1, type: 3}
-  _wallPrefab: {fileID: 1978775886026106, guid: bbc12ae2f967ec04e8c3c39eeb92733b, type: 3}
+  _wallPrefab: {fileID: 3347284137748755902, guid: 4534adb8f6773fa4b9cab357594a7c1f, type: 3}
   _groundPrefab: {fileID: 5933942056471715406, guid: 8cc1014f42adda74c9e0fd504e53c1d1, type: 3}
   _obstaclePrefabs:
-  - {fileID: 1267589063166154, guid: e865a10713e46984aba70d89a679e42f, type: 3}
-  - {fileID: 1554581858039714, guid: 777f53d3993533d4184fa410d0cdfae7, type: 3}
-  - {fileID: 1196428747069424, guid: a2e435ea5b0f606429670d1f3f1f1504, type: 3}
+  - {fileID: 5357095883290857364, guid: ca93872f57b535444935362a55041af9, type: 3}
+  - {fileID: 8509277309553702604, guid: 3c027e2356855c94ea69801668efd257, type: 3}
+  - {fileID: 413852235540751105, guid: 4fe5db9781136d94c921aecebbcf19da, type: 3}
   _enemyPrefabs:
   - {fileID: 4194504309497116949, guid: 41632d14aecaf984b8aec263648f1805, type: 3}

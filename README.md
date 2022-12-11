@@ -1,2 +1,2 @@
 # Test-Game
-Test fame for Morkwa game studio.
+Test game for Morkwa game studio.
